@@ -1,19 +1,19 @@
 {
-  "short_name": "Dev Dictionary",
-  "name": "Grow With Us",
+  "short_name": "D-Dictionary",
+  "name": "Dev Dictionary",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/danklammer/bytesize-icons/210d2f81c340c838053eed4c5a0385fbf2a033e9/dist/icons/book.svg",
+      "src": "./icons8-book-65.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/danklammer/bytesize-icons/210d2f81c340c838053eed4c5a0385fbf2a033e9/dist/icons/book.svg",
+      "src": "./icons8-book-65.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/danklammer/bytesize-icons/210d2f81c340c838053eed4c5a0385fbf2a033e9/dist/icons/book.svg",
+      "src": "./icons8-book-65.png",
       "type": "image/png",
       "sizes": "512x512"
     }
