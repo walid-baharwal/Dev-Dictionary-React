@@ -3,17 +3,17 @@
   "name": "Dev Dictionary",
   "icons": [
     {
-      "src": "./icons8-book-65.png",
+      "src": "./logob.svg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "./icons8-book-65.png",
+      "src": "./logob.svg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./icons8-book-65.png",
+      "src": "./logob.svg",
       "type": "image/png",
       "sizes": "512x512"
     }
